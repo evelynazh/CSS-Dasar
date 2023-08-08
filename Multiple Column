@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style media="screen">
+        div.news{
+            margin: 0 auto;
+            width: 70%;
+            height: 300px;
+            column-count:2;
+            column-gap: 30px;
+            column-rule-style: solid;
+            column-rule-width: 2px;
+            column-rule-color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="news">
+    <p>
+        Lorem ipsum dolor sit amet. Aut quod corporis 33 suscipit debitis qui 
+        fugit minima! Aut vitae veniam eum exercitationem accusamus aut perspiciatis 
+        veniam ea quasi quibusdam qui dolorum voluptatem sit maxime dolorem non omnis 
+        voluptas? A blanditiis commodi qui iste consectetur qui esse ducimus? Qui deleniti 
+        omnis ut voluptatem consequatur id cumque esse qui placeat architecto non sint nihil 
+        id veniam doloribus et voluptatem corrupti.
+    </p>
+
+    <p>
+        Hic quia assumenda 33 consectetur laudantium qui sapiente minima. 
+        Sed laudantium rerum in cupiditate temporibus est cumque voluptatem et maiores 
+        incidunt et numquam omnis aut eligendi itaque qui iste fugit. Et odio corrupti 
+        est quos accusantium eos voluptatibus iste. Id dicta impedit sit suscipit veritatis 
+        et internos ratione eos unde enim id animi omnis et quia doloribus.
+    </p>
+</div>
+</body>
+</html>
