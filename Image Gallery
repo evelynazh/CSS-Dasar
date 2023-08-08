@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style media="screen">
+        div.box{
+            display: inline-block;
+            width: 200px;
+            float: left;
+            border: 2px solid #ddd;
+            margin: 10px;
+        }
+        div.box img{
+            width: 100%;
+            height: 250px;
+        }
+        div.box:hover{
+            border: 3px solid #000;
+        }
+        div.box div.deskripsi{
+            padding: 15px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <img src="Suharto.jpg">
+        <div class="deskripsi">Soeharto</div>
+    </div>
+
+    <div class="box">
+        <img src="BJ Habibi.jpg">
+        <div class="deskripsi">Bahrudin Jusuf Habibi</div>
+    </div>
+
+    <div class="box">
+        <img src="Gusdur.jpg">
+        <div class="deskripsi">KH. Abdurrahman Wahid</div>
+    </div>
+
+    <div class="box">
+        <img src="SBY.jpg">
+        <div class="deskripsi">Susilo Bambang Yudhoyono</div>
+    </div>
+
+    <div class="box">
+        <img src="Jokowi.jpeg">
+        <div class="deskripsi">Ir. H. Joko Widodo</div>
+    </div>
+</body>
+</html>
